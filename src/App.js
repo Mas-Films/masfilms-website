@@ -22,7 +22,7 @@ function App() {
           {/* Under Construction Text with emojis */}
           <p className="under-construction-spacing">🚧 Página en construcción 🚧</p>
 
-          <p className="contact-info">Hablamos a la dirección: <a href="mailto:info@masfilmscr.com">info@masfilmscr.com</a></p>
+          <p className="contact-info">Háblanos a la dirección: <a href="mailto:info@masfilmscr.com">info@masfilmscr.com</a></p>
         </div>
 
         {/* Optional: Add a simple footer */}
