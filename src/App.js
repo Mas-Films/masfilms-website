@@ -3,7 +3,7 @@ import './App.css'; // Import the CSS for styling
 
 // Import images from the public folder.
 const backgroundImage = process.env.PUBLIC_URL + '/background.png';
-const logoImage = process.env.PUBLIC_URL + '/Logo.png'; // Updated logo file name
+const logoImage = process.env.PUBLIC_URL + '/logo.png'; // Updated logo file name
 
 function App() {
   return (
