@@ -17,7 +17,7 @@ function App() {
           <h2 className="detail-spacing">Productora audiovisual</h2>
 
           {/* Slogan with italics */}
-          <h3 className="slogan-spacing">Creamos <i>Historias con +vida</i>.</h3>
+          <h3 className="slogan-spacing"><i>Historias con +vida</i>.</h3>
 
           {/* Under Construction Text with emojis */}
           <p className="under-construction-spacing">🚧 Página en construcción 🚧</p>
